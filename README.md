@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Cole Stuedeman
+=======================================================================================================================================
 
-<!--
-**Stuede1/Stuede1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
+-----------------
 
-Here are some ideas to get you started:
+I've recently graduated from Iowa State University with a degree in Software Engineering and have been taking a bootcamp specializing in frontend development specifically with NextJS and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Minnesota
+* 🚀  I'm currently working on [Summarist](http://vercel.com/stuede1s-projects/cole-internship-2-0)
+* 🧠  I'm currently learning NextJS
+* 👥  I'm looking to collaborate on Frontend, Backend or Full Stack Projects
+* 💬  Ask me about I'm also a Firefighter
