@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I've recently graduated from Iowa State University with a degree in Software Engineering and have been taking a bootcamp specializing in frontend development specifically with NextJS and React.
+I've recently graduated from Iowa State University with a degree in Software Engineering and have been taking a bootcamp focused on frontend development, specifically NextJS and React.
 
 * 🌍  I'm based in Minnesota
 * 🚀  I'm currently working on [Summarist](http://vercel.com/stuede1s-projects/cole-internship-2-0)
