@@ -10,4 +10,4 @@ I've recently graduated from Iowa State University with a degree in Software Eng
 * 🚀  I'm currently working on [Summarist]([http://vercel.com/stuede1s-projects/cole-internship-2-0](https://cole-internship-2-0.vercel.app)
 * 🧠  I'm currently learning NextJS
 * 👥  I'm looking to collaborate on Frontend, Backend or Full Stack Projects
-* 💬  Ask me about I'm also a Firefighter
+* 💬  Ask me about being a Firefighter
